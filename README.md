@@ -1,4 +1,4 @@
-# audim_mvpa - fMRI decoding of auditory imagery
+# auditoryimageryMVPA - fMRI decoding of auditory imagery
 ## Michael Casey, Lloyd May, Sean Paulsen, Dartmouth College
 
 1. Setting up your environment
